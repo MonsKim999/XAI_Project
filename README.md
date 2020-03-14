@@ -13,4 +13,4 @@ This is for Referrring Expression Generation In Visual Question Answering.
 # If you want to generate the Referring Expression In Visual Question Answering
 * Run the generate_object_caption.py
 
-You can download the object caption by [Google Drive link](https://drive.google.com/open?id=1k4wMDXLYvJrKzvCAXnDY5R3vvsA2BjgY)
+You can download the object captions by [Google Drive link](https://drive.google.com/open?id=1k4wMDXLYvJrKzvCAXnDY5R3vvsA2BjgY)
