@@ -14,3 +14,6 @@ This is for Referrring Expression Generation In Visual Question Answering.
 * Run the generate_object_caption.py
 
 You can download the object captions by [Google Drive link](https://drive.google.com/open?id=1k4wMDXLYvJrKzvCAXnDY5R3vvsA2BjgY)
+
+# Acknowledgement
+Our codes are based on [This repository](https://github.com/mikittt/re-SLR) 
