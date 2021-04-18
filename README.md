@@ -5,7 +5,7 @@ This is for Referrring Expression Generation In Visual Question Answering.
 
 # Train the model
 * Run the train_vlsim.py
-* Finetune the trian.py
+* Finetune the train.py
 
 # Test for Referring Expression Generation
 * Run the eval_generation.py
